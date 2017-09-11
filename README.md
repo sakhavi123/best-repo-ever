@@ -1,4 +1,4 @@
 # best-repo-ever
 mySalesforceTrailhead
 This is my first change
-This is the testing for conflicts-1
+This is the conflict testing with branch2
